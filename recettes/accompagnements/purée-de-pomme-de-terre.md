@@ -10,14 +10,14 @@
 ## Ingrédients
 
 - 1000 g de **pommes de terre** à chair farineuse ou polyvalente  
-  (type bintje, agria, etc.) et avec **peau rouge** pour le style.
+  (type bintje, agria, etc.)
 - 100 g de **beurre**
 - 150 ml de **lait**
 - 100 ml de **crème entière**
 - Sel
 - Poivre
 
-*(Pour le style, conserver un peu de peau sur chaque pomme de terre.)*
+*(Pour le style, conserver un peu de peau sur chaque pomme de terre. Et pour encore plus de style, prendre une pomme de terre avec peau rouge.)*
 
 ---
 
