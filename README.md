@@ -27,3 +27,14 @@ valentin-recipes/
     ├── plats_principaux/
     ├── accompagnements/
     └── desserts/
+
+```
+
+---
+
+## Licence
+
+Le contenu de ce dépôt (textes de recettes, descriptions, etc.) est sous licence  
+**Creative Commons Attribution 4.0 International (CC BY 4.0)**.
+
+Vous êtes libre de réutiliser, adapter et partager ce contenu, à condition de mentionner l’auteur.
