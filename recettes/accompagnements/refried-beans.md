@@ -10,7 +10,6 @@
 ## Ingrédients
 
 - 500 g de **haricots rouges égouttés**  
-  (par exemple 1 grand bocal ou 2–3 boîtes, rincés)
 - 1 **gros oignon**, émincé
 - 2 gousses d’**ail**, hachées
 - 2 c. à soupe d’**huile neutre** (tournesol, colza…)
@@ -18,7 +17,7 @@
 - 2 c. à café de **cumin** moulu
 - 1 c. à café de **paprika** (idéalement fumé)
 - (Facultatif) 1/2 à 1 c. à café de **piment** en poudre (chili, cayenne…)
-- 100 à 150 ml d’**eau** ou de **bouillon** (légumes ou volaille)
+- 100 à 150 ml d’**eau** ou de **bouillon** (légume ou volaille)
 - Sel
 - Poivre
 
