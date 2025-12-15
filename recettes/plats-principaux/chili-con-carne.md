@@ -1,4 +1,4 @@
-# Chili con carne texan (sans haricots, version supermarché français)
+# Chili con carne texan (sans haricots!)
 
 ![Chili con carne texan](../../images/plats_principaux/chili-texan-sans-haricots-hero.jpg)
 
