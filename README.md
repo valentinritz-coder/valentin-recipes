@@ -27,7 +27,6 @@ valentin-recipes/
     ├── plats_principaux/
     ├── accompagnements/
     └── desserts/
-
 ```
 
 ---
