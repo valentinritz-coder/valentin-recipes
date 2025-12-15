@@ -20,11 +20,11 @@ Le dépôt est organisé de manière simple :
 valentin-recipes/
 ├── README.md
 ├── recettes/
-│   ├── plats_principaux/
+│   ├── plats-principaux/
 │   ├── accompagnements/
 │   └── desserts/
 └── images/
-    ├── plats_principaux/
+    ├── plats-principaux/
     ├── accompagnements/
     └── desserts/
 ```
