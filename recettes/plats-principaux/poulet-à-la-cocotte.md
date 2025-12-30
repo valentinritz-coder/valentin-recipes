@@ -1,4 +1,4 @@
-# Pulled chicken à la cocotte
+# Poulet à la cocotte
 
 ![Poulet ultra fondant à la cocotte](../../images/plats_principaux/poulet-ultra-fondant-cocotte-hero.jpg)
 
@@ -72,20 +72,20 @@
 3. **Préchauffer le four**  
    - Préchauffer le four à **150 °C** (chaleur traditionnelle).
 
-4. **Préparer le fond de cocotte**  
-   - Verser l’huile dans la cocotte et chauffer à feu moyen.  
+4. **Marquer le poulet**  
+   - Verser l’huile dans la cocotte et chauffer à feu moyen-vif. 
+   - Déposer le poulet dans la cocotte.  
+   - Faire dorer le poulet sur plusieurs faces (dos, côtés, éventuellement poitrine), environ **2 à 3 minutes par face**, jusqu’à une belle coloration.
+   - Retirer le poulet de la cocotte.   
+  
+5. **Préparer le fond de cocotte**  
    - Ajouter les oignons, les carottes en biseaux, l’ail écrasé et le laurier.  
    - Faire revenir quelques minutes pour commencer à colorer légèrement les légumes.
 
-5. **Marquer le poulet**  
-   - Pousser les légumes sur les côtés de la cocotte ou les retirer temporairement.  
-   - Augmenter le feu (moyen-vif) et déposer le poulet dans la cocotte.  
-   - Faire dorer le poulet sur plusieurs faces (dos, côtés, éventuellement poitrine), environ **2 à 3 minutes par face**, jusqu’à une belle coloration.  
-   - Remettre les légumes sous et autour du poulet si nécessaire.
-
 6. **Mouiller avec bière et bouillon**  
    - Verser la bière et une partie du bouillon dans la cocotte.  
-   - Gratter le fond avec une spatule en bois pour bien **décoller les sucs de cuisson**.  
+   - Gratter le fond avec une spatule en bois pour bien **décoller les sucs de cuisson**.
+   - Déposer le poulet dans la cocotte ainsi que le petit jus résultant du repos. 
    - Ajouter le reste du bouillon jusqu’à ce que le liquide arrive environ à **mi-hauteur** du poulet (il ne doit pas être complètement immergé).
 
 7. **Cuisson longue au four**  
@@ -108,6 +108,16 @@
    - Servir le poulet en morceaux (cuisses, blancs) avec les carottes en biseaux, les pommes de terre (si ajoutées) et le jus de cuisson.  
    - Il est également possible de retirer la peau et d’**effilocher la viande** directement dans la cocotte avec les légumes et le jus pour une version “viande fondante à la cuillère”.
 
+   **Option “pulled chicken + jus exploitable” (recommandé si tu veux réutiliser le jus)**  
+   - Retirer la peau (si souhaité) et **effilocher** le poulet.  
+   - **Diviser le jus** :
+     - **1/2 du jus** : le laisser avec le poulet effiloché (pour garder la viande moelleuse).  
+     - **1/2 du jus** : le **filtrer au chinois** dans un tupperware (pour enlever les morceaux/légumes/impuretés).  
+   - Mettre ce tupperware filtré **au frigo** : le froid va **séparer** naturellement le **gras** (couche jaune figée en surface) du **jus** (en dessous, souvent gélifié).
+   - Le lendemain (ou après quelques heures) :
+     - **Gratter la couche jaune** = graisse de cuisson : parfaite pour faire un **roux** (base de gravy) ou pour d’autres usages en cuisine.  
+     - Récupérer le **jus** (en dessous) : base idéale pour une **sauce gravy** ou pour lier une garniture (tourte, sandwich, etc.).
+
 ---
 
 ## Conseils / astuces
@@ -116,6 +126,7 @@
 - Adapter le niveau de liquide : il doit toujours y avoir un fond de jus dans la cocotte. Si nécessaire, ajouter un peu de bouillon en cours de cuisson.  
 - En fin de cuisson, il est possible de retirer le poulet et de faire **légèrement réduire le jus** sur feu doux pour concentrer les saveurs, voire monter la sauce avec un petit morceau de beurre.  
 - Les restes de poulet sont excellents réutilisés en effiloché dans des sandwiches, des wraps, des tortillas ou avec du riz.
+- Ne pas utiliser tout le jus
 
 ---
 
