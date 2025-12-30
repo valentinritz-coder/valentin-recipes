@@ -1,4 +1,4 @@
-# Tourte au poulet cocotte effiloché (chicken pot pie “ranch”) en cocotte
+# Tourte au poulet cocotte effiloché (pulled chicken pot pie) en cocotte
 
 ![Photo du plat](../../images/plats/tourte-poulet-cocotte-cocotte.jpg)
 
