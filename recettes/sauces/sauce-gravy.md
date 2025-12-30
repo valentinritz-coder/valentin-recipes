@@ -1,4 +1,4 @@
-# Sauce “gravy” façon ranch (base + option porc / option végétarienne)
+# Sauce “gravy” (base + option porc / option végétarienne)
 
 ![Photo du plat](../../images/sauces/gravy-base-porc-vege.jpg)
 
