@@ -12,7 +12,7 @@
 ## Ingrédients
 
 ### Base (commun)
-- 30 g de beurre **ou** 2 c. à s. d’huile/graisse
+- 30 g de beurre/huile/graisse
 - 30 g de farine
 - 500 ml de bouillon (voir options ci-dessous)
 - Poivre
@@ -34,7 +34,7 @@
 ## Préparation
 
 1. **Étape 1 – Préparer la base aromatique**
-   - **Option porc** : faire fondre le beurre (ou chauffer la graisse) à feu moyen.
+   - **Option non végé** : faire fondre le beurre (ou chauffer la graisse) à feu moyen.
    - **Option végé** : faire revenir oignon + champignons avec le beurre/huile **8–10 min**,
      jusqu’à ce que ça **dore** et que l’eau soit évaporée.
 
@@ -58,7 +58,7 @@
 
 ## Conseils / astuces
 
-- **Option porc** : utiliser une partie du **jus du pulled pork** dans les 500 ml, ça booste énormément.
+- **Option viande** : utiliser une partie du **jus du pulled pork** dans les 500 ml, ça booste énormément.
 - **Option végé** : la clé, c’est de **bien dorer** champignons/oignons avant d’ajouter la farine.
 - **Sauce lisse (option)** : mixer 10–15 secondes ou filtrer.
 - **Conservation** : 3 jours au frigo, bien fermé.
@@ -68,5 +68,5 @@
 
 ## Suggestions de service
 
-- En saucière, **à côté** de la tourte (chacun dose).
+- En saucière, **à côté** de la tourte (chacun dose, c'est puissant!).
 - Aussi parfait sur purée, pommes de terre rôties, légumes rôtis, haricots.
