@@ -12,7 +12,7 @@
 ## À faire avant : le poulet cocotte
 
 Cette tourte se prépare avec le **poulet cocotte effiloché + son jus**.  
-➡️ Pour la recette complète : [https://raw.githubusercontent.com/valentinritz-coder/valentin-recipes/refs/heads/main/recettes/plats-principaux/pulled-chicken.md]
+➡️ Pour la recette complète : [https://github.com/valentinritz-coder/valentin-recipes/blob/main/recettes/plats-principaux/pulled-chicken.md]
 
 > Objectif ici : récupérer **la viande effilochée**, une partie des **carottes/oignons** et surtout le **jus** pour faire un gravy qui lie la tourte.
 
