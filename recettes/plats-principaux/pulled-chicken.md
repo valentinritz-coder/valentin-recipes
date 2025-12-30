@@ -30,7 +30,6 @@
 
 - 2 **gros oignons**, coupés en lamelles ou en quartiers
 - 2 à 3 **grosses carottes**, épluchées puis coupées en **biseaux de 4 à 5 cm**
-- 2 **navets moyens**, épluchés puis coupés en **quartiers**
 - 3 gousses d’**ail**, simplement écrasées
 - 1 **feuille de laurier** ou un petit bouquet garni
 - 2 c. à soupe d’**huile neutre** (ou mélange huile + un peu de beurre)
@@ -75,7 +74,7 @@
 
 4. **Préparer le fond de cocotte**  
    - Verser l’huile dans la cocotte et chauffer à feu moyen.  
-   - Ajouter les oignons, les carottes en biseaux, les quartiers de navets, l’ail écrasé et le laurier.  
+   - Ajouter les oignons, les carottes en biseaux, l’ail écrasé et le laurier.  
    - Faire revenir quelques minutes pour commencer à colorer légèrement les légumes.
 
 5. **Marquer le poulet**  
@@ -106,7 +105,7 @@
 
 9. **Repos et service**  
    - Sortir la cocotte du four et laisser reposer **10 à 15 minutes** couvercle entrouvert.  
-   - Servir le poulet en morceaux (cuisses, blancs) avec les carottes en biseaux, les navets en quartiers, les pommes de terre (si ajoutées) et le jus de cuisson.  
+   - Servir le poulet en morceaux (cuisses, blancs) avec les carottes en biseaux, les pommes de terre (si ajoutées) et le jus de cuisson.  
    - Il est également possible de retirer la peau et d’**effilocher la viande** directement dans la cocotte avec les légumes et le jus pour une version “viande fondante à la cuillère”.
 
 ---
@@ -122,6 +121,6 @@
 
 ## Suggestions de service
 
-- Avec les **pommes de terre, carottes et navets** cuits dans la cocotte.  
+- Avec les **pommes de terre et carottes** cuits dans la cocotte.  
 - Avec une **purée de pommes de terre** ou de légumes.  
 - Avec des légumes verts (haricots verts sautés, salade simple) pour apporter un peu de fraîcheur à l’ensemble.
