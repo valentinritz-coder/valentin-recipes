@@ -1,4 +1,4 @@
-# Poulet ultra fondant à la cocotte
+# Pulled chicken à la cocotte
 
 ![Poulet ultra fondant à la cocotte](../../images/plats_principaux/poulet-ultra-fondant-cocotte-hero.jpg)
 
