@@ -87,4 +87,15 @@ Cette tourte se prépare avec le **poulet cocotte effiloché + son jus**.
 
 - **La clé** : le jus doit être **épaissi**. Si c’est trop liquide, ta tourte devient une piscine.
 - **BBQ + Guinness** : si ton jus vient d’une cuisson Guinness, la sauce BBQ marche très bien.  
-  Si ça tire trop “amer/torréfié”, ajoute 1 c. à c. de vinaigre de cidre ou
+  Si ça tire trop “amer/torréfié”, ajoute 1 c. à c. de vinaigre de cidre ou une mini pointe de miel.
+- **Préparer à l’avance** : garniture faite la veille = encore meilleure. Monte la tourte le jour J.
+- **Restes** : la tourte se réchauffe très bien **20–30 min à 180°C** (pâte qui redevient crousti).
+
+---
+
+## Suggestions de service
+
+- **Ultime** : gravy à part en saucière + pickles d’oignons rouges.
+- **Garniture** : purée ou gratin dauphinois (oui, c’est indécent, donc parfait).
+- **Plus frais** : coleslaw ou salade croquante (pour faire semblant d’équilibrer).
+- **Boisson** : bière ambrée, stout légère, ou **!!cidre doux!!**.
