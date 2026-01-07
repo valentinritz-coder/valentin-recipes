@@ -22,7 +22,7 @@
 - 4 gousses d’**ail**, hachées  
 - 2 c. à soupe d’**huile neutre** (tournesol, colza…)
 
-### Mélange d’épices (version “trouvable en France”)
+### Mélange d’épices
 
 - 3 c. à soupe de **paprika doux**
 - 1 c. à soupe de **paprika fumé**  
