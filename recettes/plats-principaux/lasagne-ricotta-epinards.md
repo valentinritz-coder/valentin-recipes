@@ -23,7 +23,7 @@
 - (Option) zeste de citron ou quelques gouttes (pour “réveiller”)
 
 > Variante validée (plus riche en protéines) : **3 œufs** dans la garniture  
-> (attention, ça donne une texture plus “prise / flan”, donc on compense avec un peu plus de béchamel).
+> (attention, ça donne une texture plus “prise”, donc on compense avec un peu plus de béchamel).
 
 ### Pâtes & fromages
 - 9 à 12 feuilles de lasagne
