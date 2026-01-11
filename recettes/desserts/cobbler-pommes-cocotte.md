@@ -1,4 +1,4 @@
-# Cobbler aux pommes à la cocotte (style ranch)
+# Cobbler aux pommes à la cocotte
 
 ![Photo du plat](../../images/desserts/cobbler-pommes-cocotte.jpg)
 
@@ -80,7 +80,7 @@
 
 ## Suggestions de service
 
-- **Classique ranch** : une grosse cuillère de **crème fraîche épaisse** sur cobbler tiède.
-- **Version dessert US** : **glace vanille** (chaud/froid = magie).
-- **À table** : poser la cocotte au centre, servir à la louche, ambiance “famille qui partage”.
-- **Bonus** : un café bien noir à côté (parce que sucre + beurre + pommes, ça demande un témoin).
+- **Classique** : une grosse cuillère de **crème fraîche épaisse** sur cobbler tiède.
+- **Version dessert** : **glace vanille**.
+- **À table** : poser la cocotte au centre, servir à la louche.
+- **Bonus** : un café bien noir à côté.
