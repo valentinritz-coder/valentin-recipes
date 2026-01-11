@@ -84,4 +84,3 @@
 ## Suggestions de service
 
 - Salade verte simple (vinaigrette moutarde) pour couper le gras.
-- Haricots verts / petits pois / brocoli vapeur (basique et efficace).
