@@ -56,7 +56,7 @@ Goût “BBQ” :
 ## Comment l’utiliser sans la cramer
 
 - **Sur la viande au barbecue** : badigeonne **les 5–10 dernières minutes** seulement (à cause du sucre).
-- **En sauce de table** : garde-en une partie “propre” dans un bol pour tremper (là, elle brille).
+- **En sauce de table** : garde-en une partie “propre” dans un bol pour tremper.
 
 ---
 
