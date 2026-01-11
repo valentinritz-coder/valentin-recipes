@@ -53,7 +53,7 @@
   - Lamelles fines = pickles plus rapides et plus souples.
   - Lamelles épaisses = plus croquants, mais demande plus de temps.
 - **Vinaigre** : cidre = plus doux, blanc = plus “claquant”.
-- **Sucre** : ajuste selon ton goût (plus sucré = plus “US BBQ”).
+- **Sucre** : ajuste selon ton goût (plus sucré = plus “BBQ”).
 - **Conservation** :
   - Au frigo, **2 à 3 semaines** dans un bocal fermé.
   - Toujours utiliser une fourchette/cuillère propre (sinon ça tourne plus vite).
@@ -65,4 +65,4 @@
 
 - Dans les **tacos**, burgers, hot-dogs, pulled pork.
 - Avec **chili**, haricots, cornbread, fromages.
-- En topping sur une **tourte** ou une assiette “ranch apéro” (cake feta-olive compris).
+- En topping sur une **tourte** ou une assiette “apero” (cake feta-olive compris).
