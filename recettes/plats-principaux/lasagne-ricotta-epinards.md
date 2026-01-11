@@ -85,4 +85,3 @@
 
 - Salade verte simple (vinaigrette moutarde) pour couper le gras.
 - Haricots verts / petits pois / brocoli vapeur (basique et efficace).
-- Pain à l’ail ou pain rustique à tremper dans la béchamel (oui, c’est indulgent, c’est le concept).
