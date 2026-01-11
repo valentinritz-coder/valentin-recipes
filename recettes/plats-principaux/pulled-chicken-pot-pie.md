@@ -26,7 +26,7 @@ Cette tourte se prépare avec le **poulet cocotte effiloché + son jus**.
 - **500 à 650 ml** de **jus** de cuisson (filtré)  
   *(si tu en as moins : complète avec un peu de bouillon de volaille/légumes)*
 - 1 c. à c. de **sauce soja** (option, gros boost “umami”)
-- 2 à 4 c. à s. de **sauce BBQ** (option, très “ranch”)  
+- 2 à 4 c. à s. de **sauce BBQ** (option, très “US”)  
 - Poivre (sel seulement si nécessaire)
 
 ### Pour lier la sauce (choisis 1 méthode)
