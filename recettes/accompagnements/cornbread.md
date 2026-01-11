@@ -1,4 +1,4 @@
-# Cornbread maison (pain de maïs) façon ranch
+# Cornbread maison (pain de maïs)
 
 ![Photo du plat](../../images/pains/cornbread-skillet.jpg)
 
@@ -13,13 +13,12 @@
 
 - 160 g de semoule de maïs (polenta fine / cornmeal)
 - 160 g de farine
-- 50 à 70 g de sucre (au choix, plus ou moins “US”)
+- 50 à 70 g de sucre
 - 1 sachet de levure chimique (≈ 10–11 g)
 - 1 c. à c. de sel
 - 2 œufs
 - 300 ml de lait **ou** babeurre/buttermilk (encore meilleur)
-- 80 g de beurre fondu (ou 60 ml d’huile neutre)
-- Option “ranch” : 1 c. à s. de miel
+- 80 g de beurre fondu (ou 60 ml d’huile)
 
 ---
 
@@ -33,7 +32,7 @@
    - Dans un saladier : semoule de maïs + farine + sucre + levure + sel.
 
 3. **Mélange liquide**
-   - Dans un autre bol : œufs + lait (ou buttermilk) + beurre fondu (et miel si utilisé).
+   - Dans un autre bol : œufs + lait (ou buttermilk) + beurre fondu.
 
 4. **Assembler**
    - Verser le liquide dans le sec.
@@ -53,7 +52,7 @@
 
 - **Version buttermilk** : si tu n’en as pas, fais un faux buttermilk :
   - 300 ml lait + 1 c. à s. de citron/vinaigre, repose 10 min.
-- **Croûte de cow-boy** : poêle en fonte chaude + beurre = bords croustillants, centre moelleux.
+- **Croûte** : poêle en fonte chaude + beurre = bords croustillants, centre moelleux.
 - **Moelleux** : ne surcuis pas. Dès que c’est cuit, stop.
 - **La veille** : oui, sans problème.
   - Conservation : bien emballé, **24 h à température ambiante**, sinon frigo.
@@ -69,7 +68,7 @@
 
 ## Suggestions de service
 
-- **Apéro ranch** : en petits carrés + **beurre au miel** (beurre + miel + pincée de sel).
+- **Apéro** : en petits carrés + **beurre au miel** (beurre + miel + pincée de sel).
 - **À tremper** : avec chili (bœuf ou végé), soupe tomate rôtie, haricots.
 - **Entrée** : avec pickles d’oignons rouges et fromage frais aux herbes.
-- **Petit-déj “pionnier”** : tiède + beurre + un filet de miel (et un café noir, évidemment).
+- **Petit-déj** : tiède + beurre + un filet de miel (et un café noir, évidemment).
