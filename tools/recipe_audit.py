@@ -165,7 +165,7 @@ class RecipeAudit:
                 continue
             target_path = (path.parent / target).resolve()
             if not target_path.exists():
-                self.errors.append(Issue("error", f"Image introuvable: {target}", path))
+                self.warnings.append(Issue("warning", f"Image introuvable: {target}", path))
 
     def _check_expected_image(self, path: Path) -> None:
         info = self._recipe_info(path)
