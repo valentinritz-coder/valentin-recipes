@@ -1,6 +1,6 @@
 # Carbonara (spaghettoni) — sauce au bol inox + finition en cocotte tiédie (kid-friendly possible)
 
-![Photo du plat](../../images/CHEMIN/VERS-IMAGE.jpg)
+![Photo du plat](../../images/plats-principaux/spaghettoni-alla-carbonara-hero.jpg)
 
 **Personnes** : 2 adultes + 1 enfant (4 ans)  
 **Préparation** : 10 min  
